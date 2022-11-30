@@ -5,7 +5,7 @@ function Home() {
     return (
         <div>
             <Header />
-            <h1>Hello from home</h1>
+            <h1>Hello from <span style={{color:"red"}}>Home</span></h1>
         </div>
     )
 }

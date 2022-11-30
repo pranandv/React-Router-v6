@@ -5,7 +5,7 @@ export default function Contact() {
     return (
         <>
             <Header />
-            <h1>Hello from Contact</h1>
+            <h1>Hello from <span style={{color:"blue"}}>Contact</span></h1>
 
         </>
 

@@ -5,7 +5,7 @@ const About = () => {
     return (
         <>
             <Header />
-            <h1>Hello from About</h1>
+            <h1>Hello from <span style={{color:"green"}}>About</span></h1>
         </>
     )
 }
